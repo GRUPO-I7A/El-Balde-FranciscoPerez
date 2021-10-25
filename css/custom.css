@@ -671,6 +671,11 @@ header .caption {
 .menu{background: url(../images/hchoriqueso.jpeg)no-repeat;background-size: 100% 100%;}
 .drinks{background: url(../images/hcarnada.jpg)no-repeat;background-size: 100% 100%;}
 .sides{background: url(../images/hquesos.jpg)no-repeat;background-size: 100% 100%;}
+.menu1, .drinks1, .sides1 {
+    margin-top: 35px;
+    height: 190px;
+    padding: 75px 0 40px;
+}
 .menu1{background: url(../images/hespecial.jpg)no-repeat;background-size: 100% 100%;}
 .drinks1{background: url(../images/hsencillo.jpeg)no-repeat;background-size: 100% 100%;}
 .sides1{background: url(../images/nachos.jpeg)no-repeat;background-size: 100% 100%;}
