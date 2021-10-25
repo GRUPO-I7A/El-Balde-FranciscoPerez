@@ -421,6 +421,18 @@ header .caption {
     text-transform: uppercase;
     position:relative;
 }
+.classic2{background: url(../images/gorditarellena.jpeg)no-repeat;background-size: 100% 100%;margin-top:25px;height:360px;position:relative;overflow:hidden;}
+.classic_btn2 {
+    background: #22ee08 none repeat scroll 0 0;
+    color: #fff;
+    display: inline-block;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 18px;
+    padding: 9px 13px 9px 18px;
+    text-transform: uppercase;
+    position:relative;
+}
 .classic_btn:hover,.classic_btn:focus {
     background: #c58e13 none repeat scroll 0 0;
     color: #fff;
