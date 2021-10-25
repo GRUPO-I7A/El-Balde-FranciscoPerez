@@ -668,9 +668,12 @@ header .caption {
     height: 190px;
     padding: 75px 0 40px;
 }
-.menu{background: url(../images/menu_bg.jpg)no-repeat;background-size: 100% 100%;}
-.drinks{background: url(../images/drinks_bg.jpg)no-repeat;background-size: 100% 100%;}
-.sides{background: url(../images/sides_bg.jpg)no-repeat;background-size: 100% 100%;}
+.menu{background: url(../images/hchoriqueso.jpeg)no-repeat;background-size: 100% 100%;}
+.drinks{background: url(../images/hcarnada.jpg)no-repeat;background-size: 100% 100%;}
+.sides{background: url(../images/hquesos.jpg)no-repeat;background-size: 100% 100%;}
+.menu1{background: url(../images/hespecial.jpg)no-repeat;background-size: 100% 100%;}
+.drinks1{background: url(../images/hsencillo.jpeg)no-repeat;background-size: 100% 100%;}
+.sides1{background: url(../images/nachos.jpeg)no-repeat;background-size: 100% 100%;}
 .inner_content {
     display: block;
     margin: 0 auto;
