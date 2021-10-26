@@ -510,14 +510,14 @@
             $(document).ready(function () {
                 map = new GMaps({
                     el: '#ourmaps',
-                    lat: 3.139003,
-                    lng: 101.686855,
+                    lat: 17.0070,
+                    lng: -96.7115,
                     scrollwheel: false
                 });
 
                 //locations request
                 map.getElevations({
-                    locations: [[3.139003, 101.686855]],
+                    locations: [[17.0070, -96.7115]],
                     callback: function (result, status) {
                         if (status == google.maps.ElevationStatus.OK) {
                             for (var i in result) {
@@ -525,7 +525,7 @@
                                     lat: result[i].location.lat(),
                                     lng: result[i].location.lng(),
                                     infoWindow: {
-                                        content: '<address class="tooltip_address"><b>Junky Burger</b><br />Jalan Awan Hijau, Taman OUG<br />58200 Kuala Lumpur <br />Malaysia <br /></address>'
+                                        content: '<address class="tooltip_address"><b>Balde de carnada</b><br />San Agustin de las Juntas, Oaxaca, Mèxico<br /></address>'
                                     }
                                 });
                             }
