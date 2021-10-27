@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "el-balde-de-carnada"
-  }
+    "default": "el-balde-de-carnada",
+    "balde": "elbalde-de-carnada"
+  },
+  "targets": {}
 }
